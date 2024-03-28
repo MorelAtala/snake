@@ -23,11 +23,14 @@ No installation is required! Simply open the `index.html` file in your web brows
 
 ## Screenshots
 
-![Game Start Screen](path/to/your/start_screen_screenshot.png)
+![Game Start Screen](./Screenshots/image.png)
 
-![Gameplay Screenshot](path/to/your/gameplay_screenshot.png)
+![Gameplay Screenshot](./Screenshots/image-1.png)
 
-![High Score Screen](path/to/your/high_score_screenshot.png)
+![Gameplay High Score Screen](./Screenshots/image-2.png)
+
+![Game Over High Score Screen](./Screenshots/image-3.png)
+
 
 Replace the paths above with the actual paths to your screenshots.
 
