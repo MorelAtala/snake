@@ -32,7 +32,6 @@ No installation is required! Simply open the `index.html` file in your web brows
 ![Game Over High Score Screen](./Screenshots/image-3.png)
 
 
-Replace the paths above with the actual paths to your screenshots.
 
 ## Contributing
 
